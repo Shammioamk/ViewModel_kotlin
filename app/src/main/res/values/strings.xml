@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewModel_week7</string>
+    <string name="body_mass_index_is">"Body Mass Index is: "</string>
+</resources>
